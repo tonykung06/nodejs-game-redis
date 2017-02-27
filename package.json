@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-game-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonykung06/nodejs-game-redis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonykung06/nodejs-game-redis/issues"
+  },
+  "homepage": "https://github.com/tonykung06/nodejs-game-redis#readme",
+  "dependencies": {
+    "async": "^1.4.2",
+    "bcryptjs": "^2.2.1",
+    "commander": "^2.8.1",
+    "debug": "^2.2.0",
+    "lodash": "^3.10.1",
+    "redis": "^1.0.0"
+  },
+  "devDependencies": {
+    "should": "^7.1.0"
+  }
+}
